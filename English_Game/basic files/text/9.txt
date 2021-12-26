@@ -1,0 +1,5 @@
+Reel
+Brace
+Clinch
+Rivet
+Cylindric thing that keeps rope or other curveable material on itself
